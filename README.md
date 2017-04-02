@@ -8,4 +8,7 @@ Clone this repo to a local repository. Build using the following command:
 cargo build --release
 ```
 The binary should appear in `./target/release`
-
+Run using ```shell
+./bitmap-parser input_file.bmp
+```
+A file called `out.png` should appear
