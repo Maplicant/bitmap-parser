@@ -13,4 +13,9 @@ Run using the following command:
 ```shell
 ./bitmap-parser input_file.bmp
 ```
+Or use 
+```shell
+./bitmap-parser
+```
+if you want that it fetches a bitmap itself.
 A file called `out.png` should appear
