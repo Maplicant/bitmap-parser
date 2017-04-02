@@ -1,0 +1,7 @@
+[package]
+name = "redditPlaceHeatmap"
+version = "0.1.0"
+authors = ["Maplicant <maplicant@gmail.com>"]
+
+[dependencies]
+ws = "*"
